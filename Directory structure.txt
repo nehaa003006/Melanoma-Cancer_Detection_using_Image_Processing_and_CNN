@@ -1,0 +1,15 @@
+dataset/
+├── melanoma/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+├── nevus/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+├── dermatofibroma/
+│   ├── image1.jpg
+│   └── ...
+└── benign/
+    ├── image1.jpg
+    └── ...
